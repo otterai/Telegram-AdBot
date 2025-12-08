@@ -1,0 +1,16 @@
+python-telegram-bot
+telethon
+motor
+dnspython
+pymongo
+python-dotenv
+cryptography
+python-multipart
+cryptography
+dnspython
+motor
+pymongo
+python-dotenv
+python-telegram-bot
+telegram
+telethon
