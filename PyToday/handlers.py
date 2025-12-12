@@ -103,6 +103,8 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await update.message.reply_photo(
                 photo=config.START_IMAGE_URL,
                 caption=private_text,
+                has_spoiler = True,
+	            message_effect_id=5104841245755180586 #🔥
                 parse_mode="HTML"
             )
         except:
